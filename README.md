@@ -1,5 +1,5 @@
-# Python-learning-project 
-Repo where I add stuff and projects I do while learning python
+# Python Projects
+Repository for my smaller python projects done while learning Python
 
 ## Resources used 
 ### Courses
